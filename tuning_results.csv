@@ -1,0 +1,2 @@
+run_folder,seq_len,pred_len,normalize_mae,normalize_mse,denormalize_mae,r2
+checkpoints/long_term_forecast_co1_comdty_30_LLM4TS_ftM_sl256_ll64_pl30_dm768_nh8_ebtimeF,256,30,0.22425299882888794,0.06540969014167786,6.082120895385742,-5.304893000688979
